@@ -1,5 +1,8 @@
 # My-42-piscine
-I made the 42 piscine in July 2024 and I share you the files of all what I did in C during this month.
+Here is the code of my 42 piscine in July 2024. A crazy experience where I learned a lot of things, technically and humainly.
+The Shell and C files are the "Days" ( the exercises we need to pass for advance in the piscine )
+The Rushs are the group projects of the weeknd
+The BSQ was the final big project ( that I made in group with @N0amG )
 
 Skunk for life 
 
